@@ -4,7 +4,7 @@ package engine;
  * The main entry point for the PhotoRenamer program.
  * 
  * The purpose of this program is to drastically shorten the amount of time
- * Duraclean employees spend renaming photos downloaded from Dash.
+ * contractor employees spend renaming photos downloaded from Dash.
  * 
  * @author	Nicholas Harrell
  * @date	2022-02-25
